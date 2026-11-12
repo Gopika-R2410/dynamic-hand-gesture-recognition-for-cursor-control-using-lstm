@@ -1,5 +1,7 @@
-mediapipe==0.10.14
-opencv-python
-pyautogui
+streamlit
+streamlit-webrtc
+opencv-python-headless
+mediapipe
 numpy
+pyautogui
 scikit-learn
